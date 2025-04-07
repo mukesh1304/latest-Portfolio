@@ -1,6 +1,4 @@
 # Portfolio of Amit Shankhwar
-
-<img src ="https://www.imghippo.com/i/PNyy2006jgI.png" />
  
 This project was created with CRA (Create React App)
 

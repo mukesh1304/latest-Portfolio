@@ -13,18 +13,18 @@ export function Contact() {
       </header>
       <div className="contacts">
         <div>
-          <a href="mailto:vinayak@vinayaksingh.com">
+          <a href="mailto:kaushikm892@gmail.com">
             <img src={emailIcon} alt="Email" />
           </a>
-          <a href="mailto:vinayak@vinayaksingh.com">
-            amit18shankhwar@gmail.com
+          <a href="mailto:kaushikm892@hmail.com">
+            kaushikm892@gmail.com
           </a>
         </div>
         <div>
-          <a href="tel:+919119211569">
+          <a href="tel:+916263201271">
             <img src={phoneIcon} alt="Phone No" />
           </a>
-          <a href="tel:+919119211569">(+91) 9119211569</a>
+          <a href="tel:+916263201271">(+91) 6263201271</a>
         </div>
       </div>
       {/* <Form></Form> */}

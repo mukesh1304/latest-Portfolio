@@ -30,7 +30,7 @@ export function About() {
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.1 * 1000}>
           <p>
-            Hi there! I'm Amit, an enthusiastic Software Engineer skilled in web
+            Hi there! I'm Mukesh, an enthusiastic Software Engineer skilled in web
             development, Frontend & Backend Technologies, and scalable software
             solutions
           </p>
@@ -54,10 +54,10 @@ export function About() {
         <ScrollAnimation animateIn="fadeInLeft" delay={400}>
           <div className="education">
             <h3>Education:</h3>
-            <h4> Integrated Btech + MBA In Information Technology </h4>
+            <h4> B.tech  in (Computer Science and Engineering) </h4>
             <p>
-              Indian Institute Of Information Technology, Gwalior | July 2019 -
-              Aug 2024
+              Rungta College of Enggrinaring & Technology | October 2022 -
+              july2026
             </p>
           </div>
         </ScrollAnimation>
@@ -84,21 +84,13 @@ export function About() {
               <img src={python} alt="python" />
             </ScrollAnimation>
           </div>
-          <div className="hability">
-            <ScrollAnimation animateIn="fadeInUp" delay={0.11 * 1000}>
-              <img src={nodeIcon} alt="nodejs" />
-            </ScrollAnimation>
-          </div>
+          
           <div className="hability">
             <ScrollAnimation animateIn="fadeInUp" delay={0.13 * 1000}>
               <img src={reactIcon} alt="React" />
             </ScrollAnimation>
           </div>
-          <div className="hability">
-            <ScrollAnimation animateIn="fadeInUp" delay={0.14 * 1000}>
-              <img src={typescriptIcon} alt="Typescript" />
-            </ScrollAnimation>
-          </div>
+          
           <div className="hability">
             <ScrollAnimation animateIn="fadeInUp" delay={0.15 * 1000}>
               <img src={nextjs} alt="nextjs" />

@@ -9,9 +9,9 @@ import instagramIcon from "../../assets/instagram.svg";
 export function Footer() {
   return (
     <Container className="footer">
-      <a href="https://amitshankhwar.in" className="logo">
-        <span>www.amit</span>
-        <span>shankhwar.in</span>
+      <a href="https://mukeshkaushik.in" className="logo">
+        <span>www.mukesh</span>
+        <span>kaushik.in</span>
       </a>
       <div>
         <p>
@@ -21,21 +21,21 @@ export function Footer() {
       </div>
       <div className="social-media">
         <a
-          href="https://www.linkedin.com/in/amit-shankhwar-b95829196/"
+          href="https://www.linkedin.com/in/mukesh-kaushik-964a1b191/"
           target="_blank"
           rel="noreferrer"
         >
           <img src={linkedin} alt="Linkedin" />
         </a>
         <a
-          href="https://github.com/amitshankhwar"
+          href="https://github.com/mukesh1304"
           target="_blank"
           rel="noreferrer"
         >
           <img src={githubIcon} alt="GitHub" />
         </a>
         <a
-          href="https://api.whatsapp.com/send?phone=919119211569"
+          href="https://api.whatsapp.com/send?phone=916263201271"
           target="_blank"
           rel="noreferrer"
         >

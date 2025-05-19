@@ -8,7 +8,7 @@ import githubIcon from "../../assets/github.svg";
 // import whatsapp from "../../assets/whatsapp.svg";
 import Hello from "../../assets/Hello.gif";
 import gmail from "../../assets/gmail.svg";
-import Resume from "../../assets/newLatestResume_amit_ (1).pdf";
+import Resume from "../../assets/Resume_Mukesh_Kaushik.pdf";
 export function Hero() {
   return (
     <Container id="home">
@@ -19,7 +19,7 @@ export function Hero() {
           </p>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInUp" delay={0.2 * 1000}>
-          <h1>Amit Shankhwar</h1>
+          <h1>Mukesh Kaushik</h1>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInUp" delay={0.4 * 1000}>
           <h3>Software Developer</h3>
@@ -41,21 +41,21 @@ export function Hero() {
         <ScrollAnimation animateIn="fadeInUp" delay={1 * 1000}>
           <div className="social-media">
             <a
-              href="https://www.linkedin.com/in/amit-shankhwar-b95829196/"
+              href="https://www.linkedin.com/in/mukesh-kaushik-964a1b191/"
               target="_blank"
               rel="noreferrer"
             >
               <img src={linkedin} alt="Linkedin" />
             </a>
             <a
-              href="https://github.com/amitshankhwar"
+              href="https://github.com/mukesh1304"
               target="_blank"
               rel="noreferrer"
             >
               <img src={githubIcon} alt="GitHub" />
             </a>
             <a
-              href="mailto:amit18shankhwar@gmail.com"
+              href="mailto:kaushikm892@gmail.com"
               target="_blank"
               rel="noreferrer"
             >

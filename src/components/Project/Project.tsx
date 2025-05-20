@@ -144,7 +144,7 @@ export function Project() {
                   <img src={githubIcon} alt="Visit site" />{" "}
                 </a>
                 <a
-                  href=""
+                  href="https://your-ott-app.netlify.app/"
                   target="_blank"
                   rel="noreferrer"
                 >

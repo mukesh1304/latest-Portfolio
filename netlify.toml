@@ -1,7 +1,2 @@
 [build]
   command = "npm install --legacy-peer-deps && npm run build"
-<<<<<<< HEAD
-# remote changes
-=======
-# your local changes
->>>>>>> e0fa1d7 (your commit message)
